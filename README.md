@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nboris55
+- 👋 Hi, I’m Nick.
 - 👀 I’m interested in anything coding related from React to Rust.
 - 🌱 I’m currently learning Web3.0!
 
