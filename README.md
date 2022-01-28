@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nboris55
 - 👀 I’m interested in anything coding related from React to Rust.
-- 🌱 I’m currently learning Rust!
+- 🌱 I’m currently learning Web3.0!
 
 
 <!---
