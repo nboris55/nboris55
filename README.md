@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick.
 - 👀 I really enjoy building full stack web experiences with node, mongo and react.
-- 🌱 I’m currently learning incorporating SQL (PostgreSQL) into my applications instead of Mongo.
+- 🌱 I’m currently learning incorporating SQL (PostgreSQL) into my applications instead of Mongo and studying for AWS exams.
 
 
 <!---
