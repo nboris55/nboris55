@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick.
-- 👀 I’m interested in anything coding related from React to Rust.
-- 🌱 I’m currently learning Web3.0!
+- 👀 I really enjoy building full stack web experiences with node, mongo and react.
+- 🌱 I’m currently learning incorporating SQL (PostgreSQL) into my applications instead of Mongo.
 
 
 <!---
